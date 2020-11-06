@@ -9,7 +9,7 @@ El objetivo del Workshop es brindar las bases para generar una aplicación SWA q
 ![Arquitectura](/media/image1a.png)
 
 El workshop esta dividido en los siguientes módulos, se veran como carpetas en el repositorio:
-* Generar una app con Vue e integración de Github
+* [Generar una app con Vue e integración de Github](/modulos/1GeneraAppVue.md)
 * Generar un API 
 * Integrar una consulta con Cosmos DB y configuración de ambiente
 * Autenticación de API y Configuración de Dominio
