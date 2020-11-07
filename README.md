@@ -12,4 +12,23 @@ El workshop esta dividido en los siguientes módulos, se veran como carpetas en 
 * [Generar una app con Vue e integración de Github](/modulos/1GeneraAppVue.md)
 * [Generar un API](/modulos/2GeneraAPI.md)
 * [Integrar una consulta con Cosmos DB y configuración de ambiente](/modulos/3AddCosmosDB.md)
-* Autenticación de API y Configuración de Dominio
+* [Autenticación de API y Configuración de Dominio](/modulos/4AuthConfig.md)
+
+[Codigo final](/modulos/codigo_final/)
+
+### Requerimientos
+
+* [Cuenta de Github](https://github.com/)
+* [Cuenta de Azure](https://portal.azure.com)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+* [Node.js](https://nodejs.org/)
+* [Vue.js](https://vuejs.org/v2/guide/installation.html)
+
+
+### Ligas
+* [Liga de Static Web Apps en Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
+* [Docs](https://docs.microsoft.com/es-es/azure/static-web-apps/overview)
+* [Limites](https://docs.microsoft.com/es-es/azure/static-web-apps/quotas)
+* [Extensión de VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+* [Ejemplo con varios frameworks](https://github.com/johnpapa/shopathome)
