@@ -18,24 +18,17 @@ El workshop esta dividido en los siguientes módulos, se veran como carpetas en 
 
 ### Requerimientos
 
-[Cuenta de Github](https://github.com/)
-
-[Cuenta de Azure](https://portal.azure.com)
-
-[Visual Studio Code](https://code.visualstudio.com/)
-
-[Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
-
-[Node.js](https://nodejs.org/)
-
-[Vue.js](https://vuejs.org/v2/guide/installation.html)
+* [Cuenta de Github](https://github.com/)
+* [Cuenta de Azure](https://portal.azure.com)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Azure Static Web Apps extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+* [Node.js](https://nodejs.org/)
+* [Vue.js](https://vuejs.org/v2/guide/installation.html)
 
 
 ### Ligas
-[Liga de Static Web Apps en Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
-
-[Docs](https://docs.microsoft.com/es-es/azure/static-web-apps/overview)
-
-[Limites](https://docs.microsoft.com/es-es/azure/static-web-apps/quotas)
-
-[Extensión de VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+* [Liga de Static Web Apps en Azure](https://azure.microsoft.com/en-us/services/app-service/static/)
+* [Docs](https://docs.microsoft.com/es-es/azure/static-web-apps/overview)
+* [Limites](https://docs.microsoft.com/es-es/azure/static-web-apps/quotas)
+* [Extensión de VSCode](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+* [Ejemplo con varios frameworks](https://github.com/johnpapa/shopathome)
