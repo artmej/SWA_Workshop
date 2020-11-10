@@ -1,6 +1,6 @@
 # Generar una app con Vue e integración de Github
 
-Se abre un terminal (Powershell) y s genera la aplicación inicial de VUE con el siguiente comando:
+Se abre un terminal (Powershell) y se genera la aplicación inicial de VUE con el siguiente comando:
 
 `vue create staticapp`
 
